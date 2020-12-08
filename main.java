@@ -1,5 +1,5 @@
 package ru.geekbrains.j3.ht8;
-
+//буду честен - подгуглил...сам бы до такого решения не дошел...
 public class main {
     public static void main(String[] args)
     {
